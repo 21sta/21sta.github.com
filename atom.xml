@@ -5,9 +5,9 @@
   <subtitle>网络记事本</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://21sta.github.io/"/>
   <updated>2018-03-19T07:51:33.028Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://21sta.github.io/</id>
   
   <author>
     <name>21sta</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/03/19/hello-world/"/>
-    <id>http://yoursite.com/2018/03/19/hello-world/</id>
+    <link href="http://21sta.github.io/2018/03/19/hello-world/"/>
+    <id>http://21sta.github.io/2018/03/19/hello-world/</id>
     <published>2018-03-18T16:46:06.166Z</published>
     <updated>2018-03-19T07:51:33.028Z</updated>
     
@@ -34,10 +34,10 @@
     
     </summary>
     
-      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+      <category term="Hexo" scheme="http://21sta.github.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://21sta.github.io/tags/Hexo/"/>
     
   </entry>
   
