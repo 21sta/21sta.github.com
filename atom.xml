@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://21sta.github.io/"/>
-  <updated>2018-03-19T07:51:33.028Z</updated>
+  <updated>2018-03-20T06:11:05.909Z</updated>
   <id>http://21sta.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo+NexT安装小结</title>
+    <link href="http://21sta.github.io/2018/03/20/hexo-next-install/"/>
+    <id>http://21sta.github.io/2018/03/20/hexo-next-install/</id>
+    <published>2018-03-20T03:00:27.000Z</published>
+    <updated>2018-03-20T06:11:05.909Z</updated>
+    
+    <content type="html"><![CDATA[<p>进过一番折腾，终于把 Hexo 装好了，现将安装过程记录一下</p><h2 id="本地配置"><a href="#本地配置" class="headerlink" title="本地配置"></a>本地配置</h2><h3 id="安装-git"><a href="#安装-git" class="headerlink" title="安装 git"></a>安装 git</h3><p>Windows: 下载安装 <a href="https://git-scm.com/download/win" target="_blank" rel="noopener">git</a> ，一路 next 即可。</p><a id="more"></a><h3 id="安装-Node-js"><a href="#安装-Node-js" class="headerlink" title="安装 Node.js"></a>安装 Node.js</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;进过一番折腾，终于把 Hexo 装好了，现将安装过程记录一下&lt;/p&gt;
+&lt;h2 id=&quot;本地配置&quot;&gt;&lt;a href=&quot;#本地配置&quot; class=&quot;headerlink&quot; title=&quot;本地配置&quot;&gt;&lt;/a&gt;本地配置&lt;/h2&gt;&lt;h3 id=&quot;安装-git&quot;&gt;&lt;a href=&quot;#安装-git&quot; class=&quot;headerlink&quot; title=&quot;安装 git&quot;&gt;&lt;/a&gt;安装 git&lt;/h3&gt;&lt;p&gt;Windows: 下载安装 &lt;a href=&quot;https://git-scm.com/download/win&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;git&lt;/a&gt; ，一路 next 即可。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://21sta.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://21sta.github.io/tags/Hexo/"/>
+    
+      <category term="NexT" scheme="http://21sta.github.io/tags/NexT/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://21sta.github.io/2018/03/19/hello-world/"/>
     <id>http://21sta.github.io/2018/03/19/hello-world/</id>
-    <published>2018-03-18T16:46:06.166Z</published>
-    <updated>2018-03-19T07:51:33.028Z</updated>
+    <published>2018-03-19T03:00:27.000Z</published>
+    <updated>2018-03-20T06:08:34.964Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
