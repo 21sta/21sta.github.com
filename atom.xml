@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://21sta.github.io/"/>
-  <updated>2018-03-20T06:11:05.909Z</updated>
+  <updated>2018-03-20T07:56:47.325Z</updated>
   <id>http://21sta.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://21sta.github.io/2018/03/20/hexo-next-install/"/>
     <id>http://21sta.github.io/2018/03/20/hexo-next-install/</id>
     <published>2018-03-20T03:00:27.000Z</published>
-    <updated>2018-03-20T06:11:05.909Z</updated>
+    <updated>2018-03-20T07:56:47.325Z</updated>
     
-    <content type="html"><![CDATA[<p>进过一番折腾，终于把 Hexo 装好了，现将安装过程记录一下</p><h2 id="本地配置"><a href="#本地配置" class="headerlink" title="本地配置"></a>本地配置</h2><h3 id="安装-git"><a href="#安装-git" class="headerlink" title="安装 git"></a>安装 git</h3><p>Windows: 下载安装 <a href="https://git-scm.com/download/win" target="_blank" rel="noopener">git</a> ，一路 next 即可。</p><a id="more"></a><h3 id="安装-Node-js"><a href="#安装-Node-js" class="headerlink" title="安装 Node.js"></a>安装 Node.js</h3>]]></content>
+    <content type="html"><![CDATA[<p>进过一番折腾，终于把 Hexo 装好了，现将安装过程记录一下</p><h2 id="本地配置"><a href="#本地配置" class="headerlink" title="本地配置"></a>本地配置</h2><h3 id="安装-git"><a href="#安装-git" class="headerlink" title="安装 git"></a>安装 git</h3><p>Windows: 下载安装 <a href="https://git-scm.com/download/win" target="_blank" rel="noopener">git</a> ，一路 next 即可。<br><a id="more"></a></p><h3 id="安装-Node-js"><a href="#安装-Node-js" class="headerlink" title="安装 Node.js"></a>安装 Node.js</h3>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;进过一番折腾，终于把 Hexo 装好了，现将安装过程记录一下&lt;/p&gt;
-&lt;h2 id=&quot;本地配置&quot;&gt;&lt;a href=&quot;#本地配置&quot; class=&quot;headerlink&quot; title=&quot;本地配置&quot;&gt;&lt;/a&gt;本地配置&lt;/h2&gt;&lt;h3 id=&quot;安装-git&quot;&gt;&lt;a href=&quot;#安装-git&quot; class=&quot;headerlink&quot; title=&quot;安装 git&quot;&gt;&lt;/a&gt;安装 git&lt;/h3&gt;&lt;p&gt;Windows: 下载安装 &lt;a href=&quot;https://git-scm.com/download/win&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;git&lt;/a&gt; ，一路 next 即可。&lt;/p&gt;
+&lt;h2 id=&quot;本地配置&quot;&gt;&lt;a href=&quot;#本地配置&quot; class=&quot;headerlink&quot; title=&quot;本地配置&quot;&gt;&lt;/a&gt;本地配置&lt;/h2&gt;&lt;h3 id=&quot;安装-git&quot;&gt;&lt;a href=&quot;#安装-git&quot; class=&quot;headerlink&quot; title=&quot;安装 git&quot;&gt;&lt;/a&gt;安装 git&lt;/h3&gt;&lt;p&gt;Windows: 下载安装 &lt;a href=&quot;https://git-scm.com/download/win&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;git&lt;/a&gt; ，一路 next 即可。&lt;br&gt;
     
     </summary>
     
